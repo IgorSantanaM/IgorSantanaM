@@ -1,8 +1,8 @@
-# ![Igor Santana](https://img.shields.io/badge/Igor%20Santana-%2300bfae?style=for-the-badge&logo=github&logoColor=white)
+# ![Igor Santana](https://via.placeholder.com/500x80.png?text=%23+Igor+Santana&bg=ffffff&color=00bfae)
 
-Hello there! I'm Igor Santana, a backend developer. Welcome to my GitHub profile!
+Hello there! I'm Igor Santana, a backend developer and DevOps engineer. I specialize in microservices and work primarily with .NET Core and C#.
 
-## ![Most Used Languages](https://img.shields.io/badge/Most%20Used%20Languages-%2300bfae?style=for-the-badge&logo=github&logoColor=white)
+## ![Most Used Languages](https://via.placeholder.com/500x80.png?text=%23+Most+Used+Languages&bg=ffffff&color=00bfae)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantanaM&layout=compact&theme=radical)
 
