@@ -1,9 +1,9 @@
-# <span style="color:cyan;">Igor Santana</span>
+# ![Igor Santana](https://img.shields.io/badge/Igor%20Santana-%2300bfae?style=for-the-badge&logo=github&logoColor=white)
 
-# <span style="color:cyan;">Most Used Languages</span>
+Hello there! I'm Igor Santana, a backend developer. Welcome to my GitHub profile!
+
+## ![Most Used Languages](https://img.shields.io/badge/Most%20Used%20Languages-%2300bfae?style=for-the-badge&logo=github&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantanaM&layout=compact&theme=radical)
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+Feel free to explore my repositories and see what I'm working on. Contributions, suggestions, and collaborations are always welcome!
