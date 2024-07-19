@@ -1,6 +1,6 @@
-## Igor Santana
+# <span style="color:cyan;">Igor Santana</span>
 
-## Most Used Languages
+# <span style="color:cyan;">Most Used Languages</span>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantanaM&layout=compact&theme=radical)
 
