@@ -2,7 +2,7 @@
 
 
 
-Hello there! I'm Igor Santana, a backend developer and DevOps engineer. I specialize in microservices and work primarily with .NET Core and C#.
+Hello there! I'm Igor Medeiros, a backend developer and DevOps engineer. I specialize in microservices and work primarily with .NET Core and C#.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantanaM&layout=compact&theme=radical)
 
