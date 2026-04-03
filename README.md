@@ -34,14 +34,14 @@ I'm a backend developer and DevOps engineer with a strong focus on building robu
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorSantanaM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Igor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSantanaM&theme=radical&hide_border=true" alt="Igor's GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantanaM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-</p>
+[![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorSantanaM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/IgorSantanaM)
+[![Igor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantanaM&theme=radical&hide_border=true)](https://github.com/IgorSantanaM)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantanaM&layout=compact&theme=radical&hide_border=true)](https://github.com/IgorSantanaM)
+
+</div>
 
 ---
 
