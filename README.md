@@ -12,10 +12,7 @@
 
 I'm a backend developer and DevOps engineer with a strong focus on building robust microservices and managing cloud infrastructure. I thrive in the intersection of code and deployment, ensuring applications are both performant and scalable. 
 
-* 🔭 Currently working on cool projects like **StockMode** (a web service for retail inventory control/ERP) and **Xattax**.
 * ⚙️ Specialized in **C#**, **.NET Core**, and container orchestration with **Kubernetes** and **Helm**.
-* 🔒 Always exploring new technologies, from optimizing PC hardware to learning ethical hacking on Kali Linux.
-* 🎸 When I'm not coding, I'm likely playing classical guitar or listening to anything from Villa-Lobos to Pink Floyd and Led Zeppelin.
 
 ---
 
