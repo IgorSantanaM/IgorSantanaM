@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Igor Medeiros</h1>
+<h1 align="center">Hi, I'm Igor Medeiros</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -36,10 +36,7 @@ I'm a backend developer and DevOps engineer with a strong focus on building robu
 
 <div align="center">
 
-[![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorSantanaM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/IgorSantanaM)
 [![Igor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantanaM&theme=radical&hide_border=true)](https://github.com/IgorSantanaM)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantanaM&layout=compact&theme=radical&hide_border=true)](https://github.com/IgorSantanaM)
 
 </div>
 
