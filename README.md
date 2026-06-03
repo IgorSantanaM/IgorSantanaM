@@ -32,16 +32,6 @@ I'm a backend developer and DevOps engineer with a strong focus on building robu
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Igor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantanaM&theme=radical&hide_border=true)](https://github.com/IgorSantanaM)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 Feel free to reach out for collaborations, discussions on microservices, or if you just want to talk about tech!
